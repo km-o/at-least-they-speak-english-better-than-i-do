@@ -1,7 +1,7 @@
 # At least they speak English better than I do
 ─ so please teach me English!
 
-At least they speak English better than I do, so please teach me English! (少なくとも俺より英語が上手なので、英語を教えてくれ！)とは、LLMエージェントを英語の教師と見立てて英会話を行うWEBアプリです。
+At least they speak English better than I do, so please teach me English! (少なくとも彼らは俺より英語が上手なので、英語を教えてください！)とは、LLMを英語の教師と見立てて英会話を行うことを目指すWEBアプリです。
 
 
 ## モチベーション
